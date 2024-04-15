@@ -1,0 +1,30 @@
+Date: 28/11/2023
+Time: 12:8
+Phone Number: +919154630718
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 28/11/2023
+Time: 12:9
+Phone Number: +919154630718
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 28/11/2023
+Time: 12:17
+Phone Number: +919154630718
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 28/11/2023
+Time: 12:20
+Phone Number: +919154630718
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 28/11/2023
+Time: 12:21
+Phone Number: +9181715 57307
+Message: I love you Ruchi
+--------------------
+Date: 28/11/2023
+Time: 12:26
+Phone Number: +9181715 57307
+Message: I love you Ruchi
+--------------------
